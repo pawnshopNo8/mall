@@ -16,7 +16,8 @@
 ## 项目文档
 
 - 文档地址：[https://macrozheng.github.io/mall-learning](https://macrozheng.github.io/mall-learning)
-- 备用地址：[https://macrozheng.gitee.io/mall-learning](https://macrozheng.gitee.io/mall-learning)
+- 备用地址：[https://macrozheng.gitee.io/mall-learning](https://macrozheng.gitee.io/mall-learning
+-使用Maven构建Docker镜像：https://blog.csdn.net/qq_39623859/article/details/8007254
 
 ## 项目介绍
 
